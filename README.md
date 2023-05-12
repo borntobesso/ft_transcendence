@@ -2,7 +2,7 @@
 
 ### The objective of the project is to create a multiplayer online game web application using a client-server architecture. The game should be a real-time action game where players can join different rooms and fight against each other. The server should handle multiple concurrent connections and synchronize the game state between all clients.
 
-acquired skills after the project":
+acquired skills after the project:
 - **Web development**
 - **Full-stack development**
 - **User account management**
