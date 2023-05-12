@@ -1,5 +1,17 @@
 # ft_transcendence
 
+### The objective of the project is to create a multiplayer online game web application using a client-server architecture. The game should be a real-time action game where players can join different rooms and fight against each other. The server should handle multiple concurrent connections and synchronize the game state between all clients.
+
+acquired skills after the project":
+- **Web development**
+- **Full-stack development**
+- **User account management**
+- **Authentication and authorization**
+- **RESTful API design**
+- **WebSocket communication**
+- **Database management**
+- **Server deployment**
+
 0 - Introduction
 
 Dans ce projet, nous allons devoir réaliser une wepapp monopage pour mettre en service un jeu de pong en multijoueur sur navigateur. En plus de cela, le projet devra offrir différentes fonctionnalités, comme un chat en direct ou de la double authentification.
